@@ -2,8 +2,8 @@
 
 | Metric        | Value |
 |---------------|-------|
-| Total events  | 0 |
-| Distinct IPs  | 0 |
+| Total events  | 45 |
+| Distinct IPs  | 6 |
 
 ![Ports](ports_pie.png)
 
