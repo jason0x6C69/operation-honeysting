@@ -1,9 +1,9 @@
-# OpenCanary Report – 2025-06-02
+# OpenCanary Report – 2025-06-02 16:58:05 UTC
 
 | Metric         | Value |
 |----------------|-------|
-| Total events   | 39,263 |
-| Distinct IPs   | 581 |
+| Total events   | 40,647 |
+| Distinct IPs   | 584 |
 
 ![Ports](ports_bar.png)
 
