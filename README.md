@@ -2,8 +2,8 @@
 
 | Metric        | Value |
 |---------------|-------|
-| Total events  | 35,678 |
-| Distinct IPs  | 572 |
+| Total events  | 36,126 |
+| Distinct IPs  | 573 |
 
 ![Ports](ports_bar.png)
 
