@@ -13,16 +13,19 @@ Set up involves:
 - Storing metrics in a GitHub repository and automating commits/pushes so that each run updates a Markdown README and accompanying PNG charts.
 - Integrating a Discord incoming webhook to receive alerts from OpenCanary when specific credentials are used.
 
+Metrics are aggregated nightly at midnight Eastern Time to provide consistent, daily snapshots.
+This ensures that the data reflects uniform 24-hour periods, making it easier to track trends, detect spikes, and compare day-to-day activity.
+
 Below, you’ll find an up-to-date Metrics Report that includes total event counts,
 distinct IPs, and breakdowns by port, country, username, and password.
 
 # Metrics Report
 
-<small>All-Time Stats (Last Updated: June 2, 2025 @ 4:19 PM ET)</small>
+<small>All-Time Stats (Last Updated: June 2, 2025 @ 4:23 PM ET)</small>
 
 | Metric         | Value |
 |----------------|-------|
-| Total events   | 85,880 |
+| Total events   | 86,284 |
 | Distinct IPs   | 813 |
 
 ![Ports](ports_bar.png)
