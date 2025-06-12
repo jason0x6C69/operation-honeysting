@@ -21,12 +21,12 @@ distinct IPs, and breakdowns by port, country, username, and password.
 
 # Metrics Report
 
-<small>All-Time Stats (Last Updated: June 11, 2025 @ 12:02 AM ET)</small>
+<small>All-Time Stats (Last Updated: June 12, 2025 @ 12:17 AM ET)</small>
 
 | Metric         | Value |
 |----------------|-------|
-| Total events   | 550,774 |
-| Distinct IPs   | 1,988 |
+| Total events   | 656,094 |
+| Distinct IPs   | 2,168 |
 
 ![Ports](ports_bar.png)
 
